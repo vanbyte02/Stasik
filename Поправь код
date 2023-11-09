@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-cout<< "Стасик поправь код!
+cout<< "Стасик поправь код!";
 }
